@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>mx.itson</groupId>
+    <artifactId>Examen_1_00000270001</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+    <name>Examen_1_00000270001</name>
+    <description>Examen Primera Unidad de Competencia - Diseño de Software (CU6 Comprar producto, MVC + Observer)</description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>17</maven.compiler.release>
+        <!-- Clase que ejecuta NetBeans con "Run Project" (F6) -->
+        <exec.mainClass>Examen</exec.mainClass>
+    </properties>
+</project>
